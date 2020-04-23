@@ -20,6 +20,7 @@ public class SimpleDrink extends Drink{
         this.l = l;
     }
 
+
     /**
      * Returns volume of liquid l
      *
